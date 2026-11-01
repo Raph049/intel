@@ -95,6 +95,7 @@ Technical documentation, installation instructions, architecture diagrams, and u
 Software Development | Cybersecurity | Open Source Intelligence
 
 GitHub: [@Raph049](https://github.com/Raph049)
+GitHub: [@rdk23](https://github.com/rdk23)
 
 ---
 
